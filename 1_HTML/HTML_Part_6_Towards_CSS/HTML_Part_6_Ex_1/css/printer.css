@@ -1,0 +1,11 @@
+body {
+    background-color: #fff;
+    color: #000;
+}
+
+h1 {color: #000;}
+
+nav,
+img {
+    display: none;
+}
